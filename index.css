@@ -151,6 +151,10 @@ textarea {
         padding: 0 8px;
       }
 
+    #description {
+        font-size:  1rem;
+      }
+
     textarea {
         min-height: 80px;
       }
